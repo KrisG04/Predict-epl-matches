@@ -1,4 +1,5 @@
-# Deep Neural Network (DNN) Football/Soccer Predictor
+# Deep Neural Network (DNN) EPL Predictor
+
 ## Usage
 
 `python predict.py`
